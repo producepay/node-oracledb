@@ -1,5 +1,5 @@
 {
-  "name": "oracledb",
+  "name": "oracledb-pp",
   "version": "4.0.0",
   "description": "A Node.js module for Oracle Database access",
   "license": "Apache-2.0",
